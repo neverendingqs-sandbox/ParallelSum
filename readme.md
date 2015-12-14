@@ -1,0 +1,1 @@
+Exploring different ways to sum an array of numbers, using parallelism to decrease processing time.
